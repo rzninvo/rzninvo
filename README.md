@@ -1,9 +1,9 @@
 <h1 align="center">Greetings! I'm Roham Zendehdel Nobari</h1>
 <h3 align="center">I'm a B.Sc Student of Computer Engineering at Amirkabir University of Technology trying to learn as much as possible!</h3>
 
-- 🔭 I’m currently working on **Digital Twin of Traffic Scene using RSU**
+- 🔭 I’m currently working on **Digital Twin of a Traffic Scene using RSU and AWSIM**
 
-- 🌱 I’m currently learning **Deep Learning Specialization - GANs - NLP - AWSim - CARLA Sim - ROS - Autoware**
+- 🌱 I’m currently learning **GANs - NLP - AWSim - CARLA Sim - ROS - Autoware**
 
 - 📫 How to reach me **rzninvo@gmail.com**
 
