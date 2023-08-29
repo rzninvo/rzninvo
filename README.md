@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Digital Twin of a Traffic Scene using RSU and AWSIM**
 
-- 🌱 I’m currently learning **GANs - NLP - AWSim - CARLA Sim - ROS - Autoware**
+- 🌱 I’m currently learning **AWSim - ROS2 Humble - Autoware - Ouster Studio - Unity**
 
 - 📫 How to reach me **rzninvo@gmail.com**
 
