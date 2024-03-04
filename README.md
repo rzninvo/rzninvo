@@ -1,11 +1,11 @@
 <h1 align="center">Greetings! I'm Roham Zendehdel Nobari</h1>
-<h3 align="center">I'm a B.Sc Student of Computer Engineering at Amirkabir University of Technology trying to learn as much as possible!</h3>
+<h3 align="center">I'm a MSc Student of Computer Science at University of Zürich, trying to learn as much as possible!</h3>
 
 - 🔭 I’m currently working on **Digital Twin of a Traffic Scene using RSU and AWSIM**
 
-- 🌱 I’m currently learning **AWSim - ROS2 Humble - Autoware - Ouster Studio - PCL - Unity**
+- 🌱 I’m currently learning **LLMs - Advanced NLP - OpenGL - AWSim - ROS2 Humble - Autoware - PCL**
 
-- 📫 How to reach me **rzninvo@gmail.com**
+- 📫 How to reach me **roham.zendehdelnobari@uzh.ch** or **rzendehdel@ethz.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
