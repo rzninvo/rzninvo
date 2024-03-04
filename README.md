@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Roham Zendehdel Nobari</h1>
-<h3 align="center">I'm a MSc Student of Computer Science at University of Zürich, trying to learn as much as possible!</h3>
+<h3 align="center">I'm a **MSc Student of Artificial Intelligence + Datascience** at [University of Zürich](https://uzh.ch/de.html), trying to learn as much as possible!</h3>
 
 - 🔭 I’m currently working on **Digital Twin of a Traffic Scene using RSU and AWSIM**
 
