@@ -1,11 +1,11 @@
 <h1 align="center">Greetings! I'm Roham Zendehdel Nobari</h1>
-<h3 align="center">I'm a MSc Student of Artificial Intelligence + Datascience at <a href="https://www.uzh.ch">University of Zürich</a>, trying to learn as much as possible!</h3>
+<h3 align="center">I'm a MSc Student of Artificial Intelligence + Data Science at <a href="https://www.uzh.ch">University of Zürich</a>, trying to learn as much as possible!</h3>
 
 - 🔭 I’m currently working on **Digital Twin of a Traffic Scene using RSU and AWSIM**
 
 - 🌱 I’m currently learning **LLMs - Advanced NLP - OpenGL - AWSim - ROS2 Humble - Autoware - PCL**
 
-- 📫 How to reach me **roham.zendehdelnobari@uzh.ch** or **rzendehdel@ethz.ch**
+- 📫 How to reach me **roham.zendehdelnobari@uzh.ch** or **rzendehdel@student.ethz.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
