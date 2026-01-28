@@ -1,9 +1,5 @@
 <h1 align="center">Greetings! I'm Roham Zendehdel Nobari</h1>
-<h3 align="center">I'm a MSc Student of Artificial Intelligence + Data Science at <a href="https://www.uzh.ch">University of Zürich</a>, trying to learn as much as possible!</h3>
-
-- 🔭 I’m currently working on **Digital Twin of a Traffic Scene using RSU and AWSIM**
-
-- 🌱 I’m currently learning **LLMs - Advanced NLP - OpenGL - AWSim - ROS2 Humble - Autoware - PCL**
+<h3 align="center">I'm a MSc Student of Artificial Intelligence + Data Science at <a href="https://ethz.ch/en.html">ETH Zürich</a>, trying to learn as much as possible!</h3>
 
 - 📫 How to reach me **roham.zendehdelnobari@uzh.ch** or **rzendehdel@student.ethz.ch**
 
