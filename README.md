@@ -173,11 +173,7 @@ A **PPO**-based vision policy for an autonomous "camera drone", trained in **Fli
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzninvo&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rzninvo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzninvo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
