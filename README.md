@@ -26,15 +26,15 @@
 
 ## 🧑‍🔬 About Me
 
-I'm an MSc student in **Artificial Intelligence** at **ETH Zürich** and the **University of Zürich**, working at the intersection of **computer vision**, **robotics**, and **language-grounded AI**. My research focuses on giving machines a richer understanding of the physical world — from indoor localization through natural language to whole-body imitation learning for humanoid robots.
+I'm an MSc student in **Artificial Intelligence** at **ETH Zürich** and the **University of Zürich**. My work lies at the intersection of **computer vision**, **robotics**, and **language-grounded AI**, aiming to give machines a richer understanding of the physical world, from indoor localization via natural language to whole-body imitation learning for humanoid robots.
 
-- 🔭 &nbsp;**Currently** &nbsp;— &nbsp;Graduate Student Researcher at the [ETH Computer Vision and Geometry Group](https://cvg.ethz.ch/), building *HERMES SLAM* (CVPR 2027 target) with Dr. Dániel Béla Baráth; also RL Engineer in the Humanoid Group of the [ETH Robotics Club](https://www.eth-robotics.com/)
-- 🌱 &nbsp;**Exploring** &nbsp;— &nbsp;Embodied AI · Vision-Language Models · Sim-to-Real Transfer · 3D Scene Understanding
-- 🤝 &nbsp;**Open to collaborate on** &nbsp;— &nbsp;Spatial reasoning, RL for robotics, multimodal perception
-- 💬 &nbsp;**Ask me about** &nbsp;— &nbsp;SLAM, scene graphs, indoor localization, humanoid control
-- 📫 &nbsp;**Reach me at** &nbsp;— &nbsp;[rzendehdel@ethz.ch](mailto:rzendehdel@ethz.ch)
-- 🌍 &nbsp;**Based in** &nbsp;— &nbsp;Zürich, Switzerland 🇨🇭
-- 🗣️ &nbsp;**Speaks** &nbsp;— &nbsp;English · Persian · German · Japanese
+- 🔭 &nbsp;**Currently:** &nbsp;Graduate Student Researcher at the [ETH Computer Vision and Geometry Group](https://cvg.ethz.ch/), building *HERMES SLAM* (CVPR 2027 target) with Dr. Dániel Béla Baráth; also RL Engineer in the Humanoid Group of the [ETH Robotics Club](https://www.eth-robotics.com/)
+- 🌱 &nbsp;**Exploring:** &nbsp;Embodied AI · Vision-Language Models · Sim-to-Real Transfer · 3D Scene Understanding
+- 🤝 &nbsp;**Open to collaborate on:** &nbsp;Spatial reasoning, RL for robotics, multimodal perception
+- 💬 &nbsp;**Ask me about:** &nbsp;SLAM, scene graphs, indoor localization, humanoid control
+- 📫 &nbsp;**Reach me at:** &nbsp;[rzendehdel@ethz.ch](mailto:rzendehdel@ethz.ch)
+- 🌍 &nbsp;**Based in:** &nbsp;Zürich, Switzerland 🇨🇭
+- 🗣️ &nbsp;**Speaks:** &nbsp;English · Persian · German · Japanese
 
 ---
 
@@ -47,7 +47,7 @@ I'm an MSc student in **Artificial Intelligence** at **ETH Zürich** and the **U
 ### 🛰️ HERMES SLAM &nbsp;<sub>CVPR 2027 (target)</sub>
 **ETH D-INFK · Computer Vision and Geometry Group** &nbsp;·&nbsp; *Graduate Student Researcher (Mar 2026 – Present)*
 
-A state-of-the-art **Dynamic SLAM** system developed under the supervision of **Dr. Dániel Béla Baráth** at CVG. Pushing the frontier of real-time localization and mapping in scenes with moving objects — where classical SLAM assumptions break down.
+A state-of-the-art **Dynamic SLAM** system developed at CVG with **Dr. Dániel Béla Baráth**, advancing real-time localization and mapping in scenes with moving objects, where classical SLAM assumptions break down.
 
 `Visual SLAM` `3D Vision` `Dynamic Scenes` `C++ · Python`
 
@@ -59,7 +59,7 @@ A state-of-the-art **Dynamic SLAM** system developed under the supervision of **
 ### 🧭 LangLoc &nbsp;<sub>ECCV 2026 (under review)</sub>
 **ETH CVG Lab × UZH AI/ML Group**
 
-The first pipeline for fine-grained indoor localization from **natural language alone** — no camera required. A dual-branch GATv2 + CLIP architecture for scene retrieval (+8 pp Top-1 over SOTA), a visibility-based floor-grid scoring module reaching ~1 m median error, and a Bayesian dialog module that drives median error down to **7 cm** via targeted yes/no questions.
+The first pipeline for fine-grained indoor localization from **natural language alone**, without any camera input. A dual-branch GATv2 + CLIP architecture for scene retrieval (+8 pp Top-1 over SOTA), a visibility-based floor-grid scoring module that reaches ~1 m median error, and a Bayesian dialog module that drives median error down to **7 cm** via targeted yes/no questions.
 
 `PyTorch` `CLIP` `GNNs` `Bayesian Inference`
 
@@ -69,7 +69,7 @@ The first pipeline for fine-grained indoor localization from **natural language 
 ### 🌊 Dark Diversity for eDNA
 **ETH Ecosystem & Landscape Evolution Lab**
 
-A Transformer-based **mask modeling** framework (inspired by Pl@ntBERT) on **phylogenetic embeddings** to detect ecologically suitable but absent marine species — quantifying anthropogenic impact at scale. Built end-to-end FASTQ → DADA2 → GBIF pipeline in collaboration with marine ecologists.
+A Transformer-based **mask modeling** framework (inspired by Pl@ntBERT) on **phylogenetic embeddings** to detect ecologically suitable but absent marine species, quantifying anthropogenic impact at scale. Also built an end-to-end FASTQ → DADA2 → GBIF pipeline in collaboration with marine ecologists.
 
 `Transformers` `Bioinformatics` `eDNA` `R · Python`
 
@@ -81,7 +81,7 @@ A Transformer-based **mask modeling** framework (inspired by Pl@ntBERT) on **phy
 ### 🤖 Humanoid Whole-Body Imitation
 **ETH Robotics Club**
 
-Implementing **TWIST** in NVIDIA **IsaacLab** — training a Unitree G1 locomotion policy on AMASS / MoCap data with robust sim-to-real transfer. Fine-tuning **NVIDIA GR00T N1.6** on teleoperation data and deploying **SONIC** for real-time whole-body control. Also building a low-cost VR-based teleoperation rig with PICO headsets.
+Implementing **TWIST** in NVIDIA **IsaacLab** to train a Unitree G1 locomotion policy on AMASS / MoCap data with robust sim-to-real transfer. Fine-tuning **NVIDIA GR00T N1.6** on teleoperation data and deploying **SONIC** for real-time whole-body control, alongside a low-cost VR-based teleoperation rig built with PICO headsets.
 
 `IsaacLab` `RL` `Sim2Real` `Unitree G1`
 
@@ -91,7 +91,7 @@ Implementing **TWIST** in NVIDIA **IsaacLab** — training a Unitree G1 locomoti
 ### 🗺️ SpotMap &nbsp;<sub>Boston Dynamics Spot</sub>
 **ETH CVG Lab**
 
-Onboard 3D perception for the Spot robot: dense **RGB-D SLAM** with **TSDF** volumetric fusion from a single monocular camera, plus a dynamic **scene graph generator** powered by **OpenMask3D** for open-vocabulary instance segmentation — letting the robot semantically understand and update its world during interaction.
+Onboard 3D perception for the Spot robot: dense **RGB-D SLAM** with **TSDF** volumetric fusion from a single monocular camera, plus a dynamic **scene graph generator** powered by **OpenMask3D** for open-vocabulary instance segmentation, letting the robot semantically understand and update its world during interaction.
 
 `SLAM` `TSDF` `OpenMask3D` `Scene Graphs`
 
@@ -103,7 +103,7 @@ Onboard 3D perception for the Spot robot: dense **RGB-D SLAM** with **TSDF** vol
 ### 🥽 Conversational Indoor Navigation
 **Microsoft Spatial AI Lab**
 
-A voice-based navigation assistant for **smart glasses** that guides users with context-aware, **landmark-based** verbal cues instead of metric instructions. Image-based localization, semantic landmark extraction, and mesh-aligned grounding inside Habitat-Sim — evaluated on a 3D mesh of the ETH HG building.
+A voice-based navigation assistant for **smart glasses** that guides users with context-aware, **landmark-based** verbal cues instead of metric instructions. Combines image-based localization, semantic landmark extraction, and mesh-aligned grounding inside Habitat-Sim, evaluated on a 3D mesh of the ETH HG building.
 
 `Habitat-Sim` `VLMs` `Smart Glasses` `Spatial AI`
 
@@ -113,7 +113,7 @@ A voice-based navigation assistant for **smart glasses** that guides users with 
 ### 🚁 Vision-Based Drone Pursuit
 **UZH Robotics & Perception Group**
 
-A **PPO**-based vision policy for an autonomous "camera drone" trained in **Flightmare** / **Agilicious** to track dynamic targets while keeping safe flight dynamics. Deployed on real hardware with a **60 Hz** ROS control loop and extensive domain randomization for robust real-world transfer.
+A **PPO**-based vision policy for an autonomous "camera drone", trained in **Flightmare** / **Agilicious** to track dynamic targets while keeping safe flight dynamics. Deployed on real hardware through a **60 Hz** ROS control loop, with extensive domain randomization for robust sim-to-real transfer.
 
 `PPO` `Flightmare` `ROS` `Sim2Real`
 
@@ -164,12 +164,12 @@ A **PPO**-based vision policy for an autonomous "camera drone" trained in **Flig
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzninvo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzninvo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rzninvo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzninvo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzninvo&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rzninvo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -183,5 +183,7 @@ A **PPO**-based vision policy for an autonomous "camera drone" trained in **Flig
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it." &nbsp;—&nbsp; Alan Kay</i>
+  <i>"The best way to predict the future is to invent it."</i>
+  <br />
+  <sub>Alan Kay</sub>
 </p>
